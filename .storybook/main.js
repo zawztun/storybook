@@ -6,6 +6,12 @@ module.exports = {
   "addons": [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
-    "@storybook/preset-create-react-app"
+    "@storybook/preset-create-react-app",
+    "@storybook/addon-docs",
+    "@storybook/addon-knobs",
+    "@storybook/addon-viewport",
+    "@storybook/addon-a11y"
+
+  
   ]
 }

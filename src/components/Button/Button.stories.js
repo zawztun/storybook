@@ -4,6 +4,7 @@ import Button from './Button';
 export default{
     title:'form/Button',
     component:Button,
+    //decorators: [story => <Center>{story()}</Center>]
     //arrs in component level  it is all same children
     // args: {
     //     children:'Button'
